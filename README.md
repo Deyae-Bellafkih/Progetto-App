@@ -24,12 +24,12 @@ presenze, gol, assist, minuti giocati, ammonizioni, espulsioni
 
 # Funzionalità dell’applicazione per lo scout
 - Ricerca dei calciatori attraverso filtri come:
-età
-ruolo
-città
-categoria
-piede preferito
-caratteristiche
+età, 
+ruolo, 
+città, 
+categoria, 
+piede preferito, 
+caratteristiche, 
 statistiche
 - Creare liste di giocatori che si vogliono osservare
 - Contattare il giocatore tramite una richiesta, avendo la possibilità di chattare 
