@@ -1,4 +1,4 @@
-# Progetto-App
+# Progetto-App - Scounting
 ## Tagline:
 Scounting	Il tuo talento, il tuo futuro. Scendi in campo con i professionisti.                                                                      
 ## Descrizione: 
