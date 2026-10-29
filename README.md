@@ -6,7 +6,7 @@
 
 ## 1. Descrizione del progetto
 
-**Scounting** è un'applicazione progettata per mettere in contatto calciatori e scout.
+Scounting è un'applicazione progettata per mettere in contatto calciatori e scout.
 
 La piattaforma permette ai calciatori di creare un profilo personale e sportivo completo, inserendo le proprie statistiche, i video delle prestazioni e le informazioni relative alla propria disponibilità per provini o trasferimenti.
 
@@ -20,13 +20,13 @@ Molti calciatori giocano in società sportive poco osservate da scout e allenato
 
 L'applicazione si rivolge a due categorie di utenti:
 
-- **Calciatori**
-- **Scout e società calcistiche**
+- Calciatori
+- Scout e società calcistiche
 
 ## 4. Analisi dei competitor
 
-- **Tuttocampo:**
-- **Hudl:**
+- Tuttocampo
+- Hudl
   
 ---
 
