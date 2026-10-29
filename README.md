@@ -232,7 +232,7 @@ L'applicazione deve essere accessibile agli utenti con un'elevata disponibilità
 
 ### Immagine del diagramma UML
 
-<img width="4204" height="3368" alt="image" src="https://github.com/user-attachments/assets/8c874d9b-48ce-42c7-8a0b-fd80d1de58f5" />
+<img width="3294" height="2576" alt="image" src="https://github.com/user-attachments/assets/c72a9a5d-772c-4ba1-92f0-6d9b67746d00" />
 
 
 ---
