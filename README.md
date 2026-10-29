@@ -68,5 +68,6 @@ Come scout, voglio cercare calciatori disponibili per provini o trasferimenti, c
 
 
 # Diagramma UML 
-<img width="3080" height="1694" alt="image" src="https://github.com/user-attachments/assets/b8ede616-05e3-4f1e-aee2-3d2f1310936f" />
+<img width="4204" height="3368" alt="image" src="https://github.com/user-attachments/assets/74eba261-8dc8-41b5-9603-0de332b229e4" />
+
 
