@@ -194,41 +194,44 @@ L'applicazione deve essere accessibile agli utenti con un'elevata disponibilità
 
 # 9. Diagramma UML
 
-### Attore: Calciatore
+[Calciatore]-(Inserire le proprie caratteristiche) 
 
-- Inserire le proprie caratteristiche
-- Inserire le proprie statistiche
-- Inserire video
-- Ricevere messaggi dallo scout
-  - Aver accettato la richiesta la prima volta
-- Indicare disponibilità per provini
-- Indicare preferenze riguardanti società e categoria
+[Calciatore]-(Inserire le proprie statistiche)
 
-### Attore: Scout
+[Calciatore]-(Inserire le proprie statistiche)  
 
-- Ricercare calciatori attraverso filtri
-- Salvare i giocatori interessati
-- Contattare il giocatore tramite una richiesta
+[Calciatore]-(Inserire video) 
 
-### Generalizzazione degli attori
+[Calciatore]-(Ricevere messaggi dallo scout) > (Aver accettato la richiesta la prima volta)
 
-- Calciatore è una specializzazione di Utente.
-- Scout è una specializzazione di Utente.
+[Calciatore]-(Indicare disponibilità per provini)
 
-### Attore: Utente
+[Calciatore]-(Indicare preferenze riguardanti società e categoria) 
 
-- Registrarsi all'applicazione
-- Accedere all'applicazione
+[Scout]-(Ricercare calciatori attraverso filtri)
 
-### Attore: Amministratore
+[Scout]-(Salvare i giocatori interessati) 
 
-- Accedere all'applicazione come amministratore
-- Gestire profili e messaggi
-- Gestire segnalazioni
+[Scout]-(Contattare il giocatore tramite una richiesta) 
+
+[Calciatore]^[Utente]
+
+[Scout]^[Utente]
+
+[Utente]-(Registrarsi all'applicazione)
+
+[Utente]-(Accedere all'applicazione)
+
+[Amministratore]-(Accedere all'applicazione come amministratore)
+
+[Amministratore]-(Gestire profili e messaggi)
+
+[Amministratore]-(Gestire segnalazioni)
+
+
 
 ### Immagine del diagramma UML
 
-![Diagramma UML di Scounting](https://github.com/user-attachments/assets/122e288c-bac8-4de4-a844-8229e44819d3)
 
 ---
 
