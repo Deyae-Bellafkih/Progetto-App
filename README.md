@@ -1,14 +1,14 @@
 # Progetto-App
-# Tagline:
+## Tagline:
 Scounting	Il tuo talento, il tuo futuro. Scendi in campo con i professionisti.                                                                      
-# Descrizione: 
+## Descrizione: 
 App che permette ai calciatori di creare un proprio profilo calcistico con le proprie caratteristiche in modo tale da essere contattati da delle società
-# Problema:
+## Problema:
 I calciatori molto spesso si trovano in società seguite poco da osservatori e allenatori di altre squadre, 
 cosa che gli impedisce di poter essere contattati e di fare il salto di livello	
-# Target:
-calciatori, scout
-# Competitor:
+## Target:
+Calciatori
+## Competitor:
 Tuttocampo, Hudl
 
 # Funzionalità dell’applicazione per il calciatore
@@ -29,10 +29,10 @@ ruolo,
 città, 
 categoria, 
 piede preferito, 
-statistiche
+statistiche,
+disponibilità per provini
 - Creare liste di giocatori che si vogliono osservare
 - Contattare il giocatore tramite una richiesta, avendo la possibilità di chattare 
-- Trovare giocatori disponibili per provini o trasferimenti
 
 # Requisiti funzionali
 
