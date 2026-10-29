@@ -35,3 +35,6 @@ statistiche
 - Contattare il giocatore tramite una richiesta, avendo la possibilità di chattare 
 - Trovare giocatori disponibili per provini o trasferimenti
 
+# Diagramma UML 
+<img width="3080" height="1694" alt="image" src="https://github.com/user-attachments/assets/b8ede616-05e3-4f1e-aee2-3d2f1310936f" />
+
