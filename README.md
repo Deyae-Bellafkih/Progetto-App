@@ -144,26 +144,39 @@ Come scout, voglio inviare una richiesta di contatto a un calciatore e, se accet
 # 7. Diagramma UML
 
 [Calciatore]-(Inserire le proprie caratteristiche) 
+
 [Calciatore]-(Inserire le proprie statistiche)
+
 [Calciatore]-(Inserire le proprie statistiche)  
+
 [Calciatore]-(Inserire video) 
+
 [Calciatore]-(Ricevere messaggi dallo scout) > (Aver accettato la richiesta la prima volta)
+
 [Calciatore]-(Indicare disponibilità per provini)
+
 [Calciatore]-(Indicare preferenze riguardanti società e categoria) 
 
 [Scout]-(Ricercare calciatori attraverso filtri)
+
 [Scout]-(Salvare i giocatori interessati) 
-[Scout]-(Contattare il giocatore tramite una richiesta) 
+
+[Scout]-(Contattare il giocatore tramite una richiesta)
 
 [Calciatore]^[Utente]
+
 [Scout]^[Utente]
 
 [Utente]-(Registrarsi all'applicazione)
+
 [Utente]-(Accedere all'applicazione)
 
 [Amministratore]-(Accedere all'applicazione come amministratore)
+
 [Amministratore]-(Gestire profili e messaggi)
+
 [Amministratore]-(Gestire segnalazioni)
+
 
 
 <img width="4204" height="3368" alt="image" src="https://github.com/user-attachments/assets/122e288c-bac8-4de4-a844-8229e44819d3" />
