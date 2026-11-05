@@ -187,7 +187,7 @@ L'applicazione deve essere accessibile agli utenti con un'elevata disponibilità
 # 8. Requisiti di dominio
 
 - Un calciatore deve appartenere a una determinata società.
-- Un calciatore deve ricoprire uno o più ruoli.
+- Un calciatore deve ricoprire un ruolo.
 - Una richiesta di contatto tra scout o società e calciatore può essere accettata o rifiutata.
 
 ---
