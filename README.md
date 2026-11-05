@@ -215,7 +215,7 @@ L'applicazione deve essere accessibile agli utenti con un'elevata disponibilità
 
 ### Immagine del diagramma ER
 
-<img width="1150" height="894" alt="er_diagram" src="https://github.com/user-attachments/assets/8396da27-7c78-4664-9ef2-ffeb630bbeb6" />
+<img width="1150" height="894" alt="er_diagram" src="https://github.com/user-attachments/assets/4e824e60-153f-4d70-9d90-250ed87945fc" />
 
 
 ---
