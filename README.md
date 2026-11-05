@@ -25,7 +25,7 @@ Molti calciatori giocano in società sportive poco osservate da scout e allenato
 L'applicazione si rivolge a due categorie di utenti:
 
 - Calciatori
-- Scout e società calcistiche
+- Scout
 
 ---
 
@@ -64,17 +64,13 @@ Il calciatore può inserire e aggiornare le proprie statistiche, tra cui:
 - Ammonizioni
 - Espulsioni
 
-### C. Caricamento di video e highlights
-
-Il calciatore può caricare video e highlights delle proprie prestazioni, consentendo agli scout di valutare le sue capacità tecniche e il suo comportamento in campo.
-
-### D. Gestione delle richieste di contatto
+### C. Gestione delle richieste di contatto
 
 Il calciatore può ricevere richieste di contatto da scout e società calcistiche e decidere se accettarle o rifiutarle.
 
 In caso di accettazione, può avviare una conversazione tramite la chat.
 
-### E. Disponibilità per provini e trasferimenti
+### D. Disponibilità per provini e trasferimenti
 
 Il calciatore può indicare se è disponibile per fare dei provini.
 
@@ -122,29 +118,25 @@ Come calciatore, voglio creare il mio profilo inserendo foto, nome, età, città
 
 Come calciatore, voglio inserire le mie statistiche sportive, tra cui presenze, gol, assist, minuti giocati, ammonizioni ed espulsioni, così da mostrare le mie prestazioni sportive.
 
-### RF03 – Inserimento di video e highlights
-
-Come calciatore, voglio caricare video e highlights delle mie prestazioni, così da permettere agli scout di valutare direttamente le mie capacità sul campo.
-
-### RF04 – Ricezione e gestione delle richieste di contatto
+### RF03 – Ricezione e gestione delle richieste di contatto
 
 Come calciatore, voglio ricevere richieste di contatto da scout e poterle accettare o rifiutare, così da decidere con chi entrare in contatto.
 
-### RF05 – Gestione della disponibilità
+### RF04 – Gestione della disponibilità
 
 Come calciatore, voglio indicare se sono disponibile per provini, così da rendere nota la mia disponibilità agli scout interessati.
 
 ## 6.2 Requisiti relativi allo scout
 
-### RF07 – Ricerca dei calciatori tramite filtri
+### RF05 – Ricerca dei calciatori tramite filtri
 
 Come scout, voglio cercare calciatori utilizzando filtri come età, ruolo, città, categoria, piede preferito, statistiche e disponibilità per provini, così da individuare rapidamente i profili più adatti alle mie esigenze.
 
-### RF08 – Creazione di liste di osservazione
+### RF06 – Creazione di liste di osservazione
 
 Come scout, voglio creare liste di calciatori da osservare, così da organizzare e gestire più facilmente i giocatori di mio interesse.
 
-### RF09 – Contatto e chat con il calciatore
+### RF07 – Contatto e chat con il calciatore
 
 Come scout, voglio inviare una richiesta di contatto a un calciatore e, se accettata, poter comunicare tramite una chat, così da avviare un confronto diretto con il giocatore.
 
