@@ -215,7 +215,8 @@ L'applicazione deve essere accessibile agli utenti con un'elevata disponibilità
 
 ### Immagine del diagramma ER
 
-https://github.com/Deyae-Bellafkih/Progetto-App/blob/main/er_diagram.png?raw=true
+<img width="1150" height="894" alt="er_diagram" src="https://github.com/user-attachments/assets/8396da27-7c78-4664-9ef2-ffeb630bbeb6" />
+
 
 ---
 
