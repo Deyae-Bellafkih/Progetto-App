@@ -213,6 +213,9 @@ L'applicazione deve essere accessibile agli utenti con un'elevata disponibilità
 <img width="3294" height="2576" alt="image" src="https://github.com/user-attachments/assets/c72a9a5d-772c-4ba1-92f0-6d9b67746d00" />
 
 
+### Immagine del diagramma ER
+
+
 ---
 
 # 10. Obiettivo finale del progetto
