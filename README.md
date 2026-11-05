@@ -144,10 +144,6 @@ Come calciatore, voglio ricevere richieste di contatto da scout e poterle accett
 
 Come calciatore, voglio indicare se sono disponibile per provini o trasferimenti, così da rendere nota la mia disponibilità agli scout interessati.
 
-### RF06 – Indicazione delle preferenze sportive
-
-Come calciatore, voglio indicare le mie preferenze riguardo a città e società, così da individuare opportunità più adatte alle mie esigenze.
-
 ## 6.2 Requisiti relativi allo scout
 
 ### RF07 – Ricerca dei calciatori tramite filtri
