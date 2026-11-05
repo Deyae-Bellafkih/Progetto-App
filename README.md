@@ -76,17 +76,7 @@ In caso di accettazione, può avviare una conversazione tramite la chat.
 
 ### E. Disponibilità per provini e trasferimenti
 
-Il calciatore può indicare se è disponibile per:
-
-- Provini
-- Trasferimenti
-
-### F. Preferenze sportive
-
-Il calciatore può specificare le proprie preferenze relative a:
-
-- Città o area geografica
-- Società calcistiche
+Il calciatore può indicare se è disponibile per fare dei provini.
 
 ## 5.2 Funzionalità per lo scout
 
@@ -142,7 +132,7 @@ Come calciatore, voglio ricevere richieste di contatto da scout e poterle accett
 
 ### RF05 – Gestione della disponibilità
 
-Come calciatore, voglio indicare se sono disponibile per provini o trasferimenti, così da rendere nota la mia disponibilità agli scout interessati.
+Come calciatore, voglio indicare se sono disponibile per provini, così da rendere nota la mia disponibilità agli scout interessati.
 
 ## 6.2 Requisiti relativi allo scout
 
